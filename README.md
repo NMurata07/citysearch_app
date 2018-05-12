@@ -5,6 +5,7 @@
 > Data includes: Google Map and region view, Top 10 cafes, Recreational areas & Things to do.
 
 I wrote a blog post about learning Vue and building this app here: http://jacklyons.me/usa-roadtrip-app/
+
 You can view the live demo here: https://fluttering-farmer.glitch.me/
 
 ## Build Setup
